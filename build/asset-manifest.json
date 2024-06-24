@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc0029cf.chunk.css",
+    "main.js": "/static/js/main.cae176f7.chunk.js",
+    "main.js.map": "/static/js/main.cae176f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.969696ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.969696ed.js.map",
+    "static/js/2.7c9ee01c.chunk.js": "/static/js/2.7c9ee01c.chunk.js",
+    "static/js/2.7c9ee01c.chunk.js.map": "/static/js/2.7c9ee01c.chunk.js.map",
+    "static/js/3.ef61d17f.chunk.js": "/static/js/3.ef61d17f.chunk.js",
+    "static/js/3.ef61d17f.chunk.js.map": "/static/js/3.ef61d17f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0da2e2e1214a5271ec25d4d24211d0c6.js": "/precache-manifest.0da2e2e1214a5271ec25d4d24211d0c6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bc0029cf.chunk.css.map": "/static/css/main.bc0029cf.chunk.css.map",
+    "static/js/2.7c9ee01c.chunk.js.LICENSE.txt": "/static/js/2.7c9ee01c.chunk.js.LICENSE.txt",
+    "static/media/Introduction.css": "/static/media/watermelon-seeds.8607c0e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969696ed.js",
+    "static/js/2.7c9ee01c.chunk.js",
+    "static/css/main.bc0029cf.chunk.css",
+    "static/js/main.cae176f7.chunk.js"
+  ]
+}

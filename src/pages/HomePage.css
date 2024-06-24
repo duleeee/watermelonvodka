@@ -1,0 +1,45 @@
+.home-page {
+  background-image: url('../assets/party.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.selection-button {
+  padding: 15px 30px;
+  font-size: 20px;
+  color: white;
+  background-color: #ff69b4; /* Bright pink color for a fun look */
+  border: none;
+  border-radius: 15px; /* Makes the button rounded */
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Fun, roundish font */
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effects */
+}
+
+.selection-button:hover {
+  background-color: #ff1493; /* Darker pink on hover */
+  transform: scale(1.1); /* Slightly increase size on hover */
+}
+
+.selection-button:focus {
+  outline: none; /* Remove default focus outline */
+  box-shadow: 0 0 10px rgba(255, 105, 180, 0.7); /* Add a pink glow on focus */
+}

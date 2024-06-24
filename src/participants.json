@@ -1,0 +1,42 @@
+{
+  "2024-06-25": {
+    "participants": [
+      {
+        "team": "hostel mint",
+        "sex": "female",
+        "date": "2024-06-25",
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "drinkingName": "Jazzy Jane"
+      },
+      {
+        "team": "team beach",
+        "sex": "",
+        "date": "",
+        "name": "first first",
+        "email": "duleee@gmail.com",
+        "drinkingName": "Firisty Thirsty"
+      },
+      {
+        "team": "hostel mint",
+        "sex": "",
+        "date": "",
+        "name": "antonio margarete",
+        "email": "duleee@gmail.com",
+        "drinkingName": "Inglorious"
+      }
+    ]
+  },
+  "2024-06-27": {
+    "participants": [
+      {
+        "team": "team beach",
+        "sex": "female",
+        "date": "2024-06-27",
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "drinkingName": "Awesome Alice"
+      }
+    ]
+  }
+}
